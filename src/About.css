@@ -1,0 +1,16 @@
+.card.text {
+    font-size: 15px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+    line-height: 30px;
+    color: aquamarine;
+  }
+  .colour{
+    background: orangered !important;
+    
+    }
+    .letter{
+      color: white;
+      font-size:x-large;
+    }
+  
